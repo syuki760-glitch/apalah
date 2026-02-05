@@ -1,1 +1,1 @@
-20250808_165443.jpg
+![Alt text](path/to/image.jpg)
